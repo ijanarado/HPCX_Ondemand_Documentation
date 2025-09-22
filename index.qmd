@@ -7,16 +7,13 @@ subtitle: "Our University's Web-based access to HPC"
 
 HPCX Ondemand is a secure browser-based interface for accessing HPCX. This service is built on [Open OnDemand](https://openondemand.org), a widely used HPC tool for visualization, interactive computing, and teaching. [Open OnDemand](https://openondemand.org) is funded by the National Science Foundation (NSF) and developed by the Ohio Supercomputer Center. It provides users with convenient access to high-performance computing (HPC) resources and filesystems directly through a web browser. Key features of OOD include:
 
-File management: upload, download, and edit files seamlessly.
-Job submission and monitoring: efficiently manage computing tasks.
-Graphical application access: run and interact with graphical HPC applications.
-Command-line access: use the terminal interface for advanced operations.
+- File management: upload, download, and edit files seamlessly.
+- Job submission and monitoring: efficiently manage computing tasks.
+- Graphical application access: run and interact with graphical HPC applications.
+- Command-line access: use the terminal interface for advanced operations.
 At the University, OOD is available for use on the amd/l4 partition of HPCX at the first instance, with other clusters to be added in the future.
 
-Core Features
-
-
-## What is Quarto?
+## Core Features
 
 Quarto helps you have your ideas and your code in one place, and present it in a beautiful way. 
 
