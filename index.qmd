@@ -25,6 +25,7 @@ Open OnDemand includes file management capabilities, allowing users to upload, d
  
 - **Job Submission and Management**
 
+![Job Submission](images/ood_job_submission.PNG){#fig-job_submission}
 Open OnDemand simplifies job submission and management, making it accessible and efficient for users of all experience levels. This feature allows users to submit computational jobs to HPC systems directly through their web browsers, eliminating the need for command-line interactions. The web-based interface enables users to select job parameters, monitor progress in real-time, and manage jobs with ease. 
 
 - **Interactive Applications**
