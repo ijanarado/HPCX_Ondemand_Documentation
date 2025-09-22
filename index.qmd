@@ -33,5 +33,6 @@ Open OnDemand enhances user experience by supporting interactive applications di
 
 - **Shell Access**
 
+![Shell Access](images/shell_access.png){#fig-shell_access}
 Open OnDemand facilitates shell development by providing users with direct access to Iridis X login node through a web browser. This core feature allows users to execute command-line operations on HPC without needing to install any additional software. The web-based shell interface supports a wide range of tasks, including file manipulation, script execution, and system monitoring. 
 
