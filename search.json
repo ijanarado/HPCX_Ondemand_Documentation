@@ -44,37 +44,7 @@
     "href": "index.html#core-features",
     "title": "HPCX Ondemand User Documentation",
     "section": "Core Features",
-    "text": "Core Features\n\nWeb Access Open OnDemand eliminates the need for client software installations by providing web access to high-performance computing (HPC) resources. This feature allows users to interact with HPC systems directly through their web browsers, making it easier to submit and monitor jobs, manage files, and run applications from any location. The intuitive interface enhances accessibility and convenience for a broader audience.\nFile Management\n\nOpen OnDemand includes file management capabilities, allowing users to upload, download, and organize their files within a HPC environment. It supports drag-and-drop functionality, making it simple to transfer files between local and remote systems. Users can create directories, move files, and set permissions, all through a web interface.\nThe ability for Quarto to streamline collaboration has been so cool and important for our NASA Openscapes project. Quarto has been a common place for us to collaborate - across R and Python languages and coding expertise.",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "index.html#what-is-this-tutorial",
-    "href": "index.html#what-is-this-tutorial",
-    "title": "HPCX Ondemand User Documentation",
-    "section": "What is this tutorial?",
-    "text": "What is this tutorial?\nThis is a 1-hour tutorial that can be used to teach or as self-paced learning.\nWe introduce Quarto by exploring this tutorial website, and practicing the basic Quarto workflow using different tools (GitHub browser, RStudio, and Jupyter) for editing your website.\nWe’ll start off from the browser so you don’t need to install any additional software, however this approach is very limited and you will soon outgrow its capabilities. If you don’t already have a workflow to edit files and sync to GitHub from your computer, I recommend RStudio. You don’t need to know R to use RStudio, and it has powerful editor features that make for happy workflows.\nQuarto.org is the go-to place for full documentation and more tutorials!",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "index.html#example-quarto-sites",
-    "href": "index.html#example-quarto-sites",
-    "title": "HPCX Ondemand User Documentation",
-    "section": "Example Quarto sites",
-    "text": "Example Quarto sites\nA few Quarto websites from Openscapes - so far we have been using Quarto for documentation using Quarto and Markdown files and Jupyter Notebooks.\n\nChampions Lessons Series\nOpenscapes Approach Guide\nNASA Earthdata Cloud Cookbook\n2021 NASA Cloud Hackathon\nFaylab Lab Manual\nA Quarto tip a day, by Mine Çetinkaya-Rundel",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "HPCX Ondemand User Documentation",
-    "section": "About",
-    "text": "About\nOpenscapes is about better science for future us. We help researchers reimagine data analysis, develop modern skills that are of immediate value to them, and cultivate collaborative and inclusive research teams as part of the broader global open movement.\nWe’re developing this tutorial to help folks with different levels of technical skills use Quarto for documentation and tutorial building. This tutorial was originally created for several different audiences: NASA-Openscapes researcher support engineers using Python, communications directors at organizations promoting open science who do not identify as coders, and fisheries scientists curious about transitioning from RMarkdown. We’re hoping it’s useful to folks with backgrounds as wide as these; if you find it useful or have suggestions for improvement, please let us know by clicking “Edit this page” or “Report an issue” at the upper right side of any page.",
+    "text": "Core Features\n\nWeb Access Open OnDemand eliminates the need for client software installations by providing web access to high-performance computing (HPC) resources. This feature allows users to interact with HPC systems directly through their web browsers, making it easier to submit and monitor jobs, manage files, and run applications from any location. The intuitive interface enhances accessibility and convenience for a broader audience.\nFile Management\n\nOpen OnDemand includes file management capabilities, allowing users to upload, download, and organize their files within a HPC environment. It supports drag-and-drop functionality, making it simple to transfer files between local and remote systems. Users can create directories, move files, and set permissions, all through a web interface.\n\nJob Submission and Management\n\nOpen OnDemand simplifies job submission and management, making it accessible and efficient for users of all experience levels. This feature allows users to submit computational jobs to HPC systems directly through their web browsers, eliminating the need for command-line interactions. The web-based interface enables users to select job parameters, monitor progress in real-time, and manage jobs with ease.\n\nInteractive Applications\n\nOpen OnDemand enhances user experience by supporting interactive applications directly within the web browser. This core feature allows users to run and interact with applications such as Jupyter Notebook, RStudio, Desktop, and MATLAB without needing to install any additional software. The platform provides a seamless interface for launching these applications, enabling users to perform data analysis, visualization, and other computational tasks interactively.\n\nShell Access\n\nOpen OnDemand facilitates shell development by providing users with direct access to Iridis X login node through a web browser. This core feature allows users to execute command-line operations on HPC without needing to install any additional software. The web-based shell interface supports a wide range of tasks, including file manipulation, script execution, and system monitoring.",
     "crumbs": [
       "Welcome"
     ]
